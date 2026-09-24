@@ -9,7 +9,7 @@
         "en": "A satisfying arrow puzzle game.",
         "ru": "Головоломка со стрелками."
       },
-      "icon": "assets/arrows/icon.png",
+      "icon": "assets/arrows/arrows.png",
       "stores": {
         "ios": null,
         "android": null
@@ -24,7 +24,7 @@
         "en": "A satisfying arrow puzzle game.",
         "ru": "Головоломка со стрелками."
       },
-      "icon": "assets/arrows/icon.png",
+      "icon": "assets/arrows/arrows.png",
       "stores": {
         "ios": null,
         "android": null
