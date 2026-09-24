@@ -4,10 +4,13 @@
     {
       "id": "arrows",
       "name": "Pinoga Arrows",
-      "type": "game",
-      "description": "A satisfying arrow puzzle game.",
+      "category": "game",
+      "description": {
+        "en": "A satisfying arrow puzzle game.",
+        "ru": "Головоломка со стрелками."
+      },
       "icon": "assets/arrows/icon.png",
-      "platforms": {
+      "stores": {
         "ios": null,
         "android": null
       },
