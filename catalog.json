@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "apps": [
+    {
+      "id": "arrows",
+      "name": "Pinoga Arrows",
+      "type": "game",
+      "description": "A satisfying arrow puzzle game.",
+      "icon": "assets/arrows/icon.png",
+      "platforms": {
+        "ios": null,
+        "android": null
+      },
+      "promote": true
+    }
+  ]
+}
