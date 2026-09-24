@@ -15,6 +15,21 @@
         "android": null
       },
       "promote": true
+    },
+    {
+      "id": "traffic",
+      "name": "Pinoga Traffic",
+      "category": "game",
+      "description": {
+        "en": "A satisfying arrow puzzle game.",
+        "ru": "Головоломка со стрелками."
+      },
+      "icon": "assets/arrows/icon.png",
+      "stores": {
+        "ios": null,
+        "android": null
+      },
+      "promote": true
     }
   ]
 }
